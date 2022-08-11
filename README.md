@@ -2,8 +2,8 @@
 
 The studentdirectorty script allows you to manage the list of enrolled students at the Villians Academy.
 
-# How to use/Start
+### How to use/start
 
 ```shell
-ruby student-directory.rb
+ruby directory.rb
 ```
